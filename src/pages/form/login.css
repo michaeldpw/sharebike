@@ -1,0 +1,19 @@
+.wrapper{
+    width: 96%;
+    margin: 0 auto;
+    height: calc(100vh - 220px);
+    overflow: auto;
+}
+
+.card {
+    margin-bottom: 10px;
+    border: none;
+}
+
+.hori-form{
+    width: 300px;
+}
+
+.remember a{
+    float: right;
+}
